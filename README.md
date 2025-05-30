@@ -1,6 +1,6 @@
 # Valuing a Bitcoin Mining Asset
 
-The objective of this project is to simulate the revenue of a bictoin mining asset for next year.
+The objective of this project is to simulate the profits of a bictoin mining asset for next year.
 
 This includes the following work:
 - Fit day-ahead and real-time prices distribution (find adapted distribution and parmaeters of it)
